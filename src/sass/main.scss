@@ -1,10 +1,58 @@
-@charset 'UTF-8';
+// @charset 'UTF-8';
 
 @use "vendor/normalize";
-@use "abstracts";
-@use "base";
-@use "components";
-@use "layout";
-@use "pages";
-@use "themes";
+// @use "abstracts";
+// @use "base";
+// @use "components";
+// @use "layout";
+// @use "pages";
+// @use "themes";
 
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:wght@400;900&family=Roboto:wght@400;700&family=Six+Caps&display=swap");
+
+html {
+  font-size: 62.5%;
+  font-family: "Roboto", sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  margin: 4rem;
+  background-color: lightgray;
+  background-image: url("../assets/images/bw-bg-sm2.jpg");
+  background-size: cover;
+  background-position: center;
+  font-size: 2rem;
+  line-height: 1.5;
+  overflow-y: hidden;
+}
+
+.wrapper {
+  max-width: 400px;
+  margin: 40vh auto auto;
+  padding: 7rem 2rem 3rem;
+  background: rgba(255, 255, 255, 0.75);
+  border-radius: 15px;
+  box-shadow: 0 0 1px 3px rgba(0, 0, 0, 0.05);
+  text-align: center;
+}
+
+.brewery {
+  font-size: 5rem;
+  font-weight: 900;
+}
+
+button {
+  color: white;
+  background: rgb(192, 151, 97);
+  padding: 1rem;
+  border: none;
+  outline: none;
+  font-weight: 600;
+  font-size: 2rem;
+
+  &:hover {
+    background-color: rgb(179, 137, 83);
+  }
+}
