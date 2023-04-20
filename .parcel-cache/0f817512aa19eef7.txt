@@ -1,4 +1,4 @@
-5882
+5887
 113C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\cosmiconfig\dist\ExplorerBase.js.map133263749244544120 0
 95C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\src\assets\images\bw-bg-sm2.jpg133259338452366622 0
 135C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\@parcel\runtime-service-worker\src\ServiceWorkerRuntime.js133263749206968431 0
@@ -31,7 +31,6 @@
 117C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\css-tree\cjs\syntax\config\generator.cjs133263749296139357 0
 119C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\@babel\helper-validator-identifier\LICENSE133263749199826324 0
 71C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\.vscode133262417740419330 1
-94C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\binary-extensions133263749221249308 1
 111C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\source-map-js\lib\binary-search.js133263749216692080 0
 113C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\@lmdb\lmdb-win32-x64\node.abi83.node133263749255781231 0
 111C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\@parcel\reporter-cli\src\render.js133263749234878536 0
@@ -42,7 +41,7 @@
 100C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\source-map\package.json133263749199795587 0
 147C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\String.js133263749361962735 0
 74C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\.gitignore133256830931906528 0
-68C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\dist133264117820226712 1
+68C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\dist133265045318413686 1
 102C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\js-yaml\lib\type\pairs.js133263749265335964 0
 113C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\@swc\helpers\src\_async_iterator.mjs133263749349208234 0
 131C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest_remap.c133263749314985733 0
@@ -111,11 +110,28 @@
 165C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\pseudo\common\nthWithOfClause.js133263749346141318 0
 94C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\readdirp\index.js133263749202301018 0
 101C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\weak-lru-cache\README.md133263749227348579 0
-72C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\src\sass133259343500169766 1
+72C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\src\sass133264962348451307 1
 117C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb133263749374824551 1
 110C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\@swc\helpers\src\_ts_metadata.mjs133263749377597897 0
 77C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\src\sass\base133259343499345153 1
 134C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\Doxyfile133263749220108182 0
+85C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\posthtml133263749218188287 1
+152C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\atrule\font-face.js133263749298305884 0
+105C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\svgo\plugins\inlineStyles.js133263749264673034 0
+148C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\Raw.js133263749354926776 0
+120C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\@parcel\workers\src\threads\ThreadsChild.js133263749275054338 0
+113C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\mdn-data\api\inheritance.schema.json133263749237216171 0
+88C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\xxhash-wasm133263749231007742 1
+108C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\caniuse-lite\data\regions\IM.js133263749403931206 0
+111C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\xxhash-wasm\umd\xxhash-wasm.js.map133263749226309069 0
+86C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\lmdb\dist133263749370803624 1
+120C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\css-tree\cjs\syntax\scope\atrulePrelude.cjs133263749227595585 0
+81C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\@swc133263749168728434 1
+94C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\msgpackr\index.js133263749233985770 0
+97C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\terser\lib\minify.js133263749301521882 0
+96C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\terser\bin\uglifyjs133263749211742420 0
+83C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\src\sass\beer-1.jpg133196386740142113 0
+99C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\timsort\src\timsort.js133263749228418426 0
 141C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\csso\node_modules\css-tree\cjs\syntax\config\parser-selector.cjs133263749339822841 0
 93C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\clone\.npmignore133263749202978422 0
 89C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\src\sass\base\_fonts.scss133196610084601457 0
@@ -154,7 +170,7 @@
 106C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\v8-compile-cache\package.json133263749205701293 0
 95C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\css-tree\README.md133263749387163633 0
 90C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\parent-module133263749207592413 1
-82C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\src\sass\main.scss133264117302359814 0
+82C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\src\sass\main.scss133265046282870496 0
 110C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\svgo\plugins\removeHiddenElems.js133263749294083018 0
 79C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\src\sass\themes133259343500119901 1
 175C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\@jridgewell\trace-mapping\node_modules\@jridgewell\sourcemap-codec\dist\types\sourcemap-codec.d.ts133263749227791807 0
@@ -258,7 +274,7 @@
 125C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\htmlnano\lib\modules\normalizeAttributeValues.js133263749258635318 0
 111C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\type-fest\source\set-required.d.ts133263749273523886 0
 113C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\@parcel\core\src\loadParcelPlugin.js133263749339363578 0
-78C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\src\js\main.js133264117835020035 0
+78C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\src\js\main.js133265046468982682 0
 102C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\@swc\helpers\src\_get.mjs133263749370872520 0
 80C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\src\assets\fonts133196645346896362 1
 126C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest5.c133263749327756818 0
@@ -313,21 +329,6 @@
 108C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\@parcel\utils\src\objectHash.js133263749304769104 0
 112C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\svgo\lib\svgo\css-select-adapter.js133263749262886202 0
 87C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\css-select133263749320888134 1
-85C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\posthtml133263749218188287 1
-152C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\atrule\font-face.js133263749298305884 0
-105C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\svgo\plugins\inlineStyles.js133263749264673034 0
-148C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\Raw.js133263749354926776 0
-120C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\@parcel\workers\src\threads\ThreadsChild.js133263749275054338 0
-113C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\mdn-data\api\inheritance.schema.json133263749237216171 0
-88C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\xxhash-wasm133263749231007742 1
-108C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\caniuse-lite\data\regions\IM.js133263749403931206 0
-111C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\xxhash-wasm\umd\xxhash-wasm.js.map133263749226309069 0
-86C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\lmdb\dist133263749370803624 1
-120C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\css-tree\cjs\syntax\scope\atrulePrelude.cjs133263749227595585 0
-81C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\@swc133263749168728434 1
-94C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\msgpackr\index.js133263749233985770 0
-97C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\terser\lib\minify.js133263749301521882 0
-96C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\terser\bin\uglifyjs133263749211742420 0
 103C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\nth-check\lib\esm\index.js133263749210515965 0
 150C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\Ratio.js133263749354752892 0
 104C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\lightningcss-win32-x64-msvc133263749207628067 1
@@ -345,6 +346,7 @@
 88C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\ansi-styles133263749212030932 1
 85C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\argparse133263749227963784 1
 95C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\csso\lib\syntax.js133263749339580783 0
+94C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\binary-extensions133263749221249308 1
 121C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\terser\lib\compress\drop-side-effect-free.js133263749280050896 0
 138C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\api\index.js133263749203755057 0
 134C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\clean\Raw.js133263749287365189 0
@@ -456,7 +458,7 @@
 88C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\glob-parent133263749211656425 1
 93C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\parcel\README.md133263749227933637 0
 103C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\utility-types\package.json133263749223232961 0
-86C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\dist\index.aa69868b.js133264117819862221 0
+86C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\dist\index.aa69868b.js133265045316618498 0
 111C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\@parcel\core\lib\CommittedAsset.js133263749296159370 0
 84C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\globals133263749220479829 1
 85C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\has-flag133263749211565157 1
@@ -636,9 +638,6 @@
 110C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\update-browserslist-db\index.d.ts133263749225273651 0
 98C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\domutils\package.json133263749230577458 0
 110C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\type-fest\source\stringified.d.ts133263749276305372 0
-101C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\msgpackr-extract\LICENSE133263749200032686 0
-93C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\semver\semver.js133263749212089561 0
-124C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\caniuse-lite\data\features\input-placeholder.js133263749406669579 0
 92C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\posthtml-parser133263749222803622 1
 96C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\stable\package.json133263749199795587 0
 119C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\@parcel\transformer-image\src\loadSharp.js133263749216920184 0
@@ -1158,7 +1157,6 @@
 97C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\timsort\package.json133263749199826324 0
 112C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\caniuse-lite\data\regions\alt-af.js133263749245111421 0
 85C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\csso\cjs133263749286737557 1
-99C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\timsort\src\timsort.js133263749228418426 0
 88C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\terser\dist133263749322046899 1
 137C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\caniuse-lite\data\features\mdn-css-unicode-bidi-plaintext.js133263749412735191 0
 115C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\caniuse-lite\data\features\datalist.js133263749386079984 0
@@ -1526,6 +1524,9 @@
 130C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\caniuse-lite\data\features\registerprotocolhandler.js133263749419229049 0
 126C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\@parcel\reporter-dev-server\src\ServerReporter.js133263749256811074 0
 93C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\semver\range.bnf133263749206498796 0
+101C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\msgpackr-extract\LICENSE133263749200032686 0
+93C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\semver\semver.js133263749212089561 0
+124C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\caniuse-lite\data\features\input-placeholder.js133263749406669579 0
 94C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\semver\bin\semver133263749203624195 0
 112C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\mdn-data\css\properties.schema.json133263749255274683 0
 151C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\aliased-file\index.js133263749273478758 0
@@ -3097,6 +3098,7 @@
 130C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\usage.js133263749295735467 0
 128C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\caniuse-lite\data\features\css-container-queries.js133263749372230405 0
 95C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\csso\cjs\usage.cjs133263749279450024 0
+108C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\dist\Click-a-brewery.59712999.js.map.6676.3v133265024814787051 0
 123C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\csso\cjs\restructure\2-initialMergeRuleset.cjs133263749206743847 0
 121C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\csso\cjs\restructure\4-restructShorthand.cjs133263749218006986 0
 117C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\csso\cjs\restructure\6-restructBlock.cjs133263749222003413 0
@@ -4359,7 +4361,7 @@
 113C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\caniuse-lite\data\features\tls1-1.js133263749424484267 0
 113C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\caniuse-lite\data\features\tls1-3.js133263749424582957 0
 112C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\caniuse-lite\data\features\touch.js133263749424729016 0
-90C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\dist\index.aa69868b.js.map133264117820123456 0
+90C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\dist\index.aa69868b.js.map133265045318254095 0
 144C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\tokenizer\const.js133263749253109160 0
 119C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\caniuse-lite\data\features\transforms2d.js133263749424780150 0
 120C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\caniuse-lite\data\features\trusted-types.js133263749424815669 0
@@ -5821,7 +5823,7 @@
 106C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\@babel\highlight\package.json133263749209522896 0
 103C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\@babel\highlight\README.md133263749202322126 0
 118C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\@babel\highlight\node_modules\ansi-styles133263749208075430 1
-100C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\dist\Click-a-brewery.59712999.js.map133264117820193278 0
+100C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\dist\Click-a-brewery.59712999.js.map133265045318264083 0
 117C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\@babel\highlight\node_modules\color-name133263749221991496 1
 130C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\@babel\highlight\node_modules\supports-color\index.js133263749205849668 0
 129C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\@babel\highlight\node_modules\supports-color\license133263749209261298 0
@@ -5875,9 +5877,12 @@
 92C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\.bin\terser.ps1133263749444126832 0
 104C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\.bin\update-browserslist-db133263749444126832 0
 108C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\node_modules\.bin\update-browserslist-db.cmd133263749444126832 0
-91C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\dist\bw-bg-sm2.705799a9.jpg133264117819564953 0
-96C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\dist\Click-a-brewery.59712999.js133264117819875672 0
-87C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\dist\index.f7626f62.css133264117819564953 0
-91C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\dist\index.f7626f62.css.map133264117819887046 0
-79C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\dist\index.html133264117819564953 0
+88C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\dist\beer-1.15f3a999.jpg133265045316658380 0
+91C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\dist\bw-bg-sm2.705799a9.jpg133265045316668352 0
+87C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\dist\bw-bg.b294b8e3.jpg133265020088990223 0
+96C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\dist\Click-a-brewery.59712999.js133265045316628450 0
+87C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\dist\index.f7626f62.css133265045316618498 0
+91C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\dist\index.f7626f62.css.map133265045318254095 0
+99C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\dist\index.f7626f62.css.map.6676.3u133265024814777053 0
+79C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\dist\index.html133265045316618498 0
 85C:\Users\HP\Desktop\MY PROJECTS\Click-a-brewery\Click-a-brewery\.vscode\settings.json133262417757621112 0
