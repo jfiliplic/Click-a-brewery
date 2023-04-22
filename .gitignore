@@ -161,3 +161,8 @@ prepros.cfg
 prepros-6.config
 
 # End of https://www.gitignore.io/api/macos,prepros
+
+# JF custom ignores
+
+### Parcel ###
+.parcel-cache

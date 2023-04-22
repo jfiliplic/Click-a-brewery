@@ -25,22 +25,21 @@ body {
   background-position: center;
   font-size: 2rem;
   line-height: 1.5;
-  //   overflow-y: hidden;
 }
 
 .wrapper {
-  //   max-width: 400px;
   width: fit-content;
   margin: 40vh auto auto;
   padding: 3rem 2rem 3rem;
   background: rgba(255, 255, 255, 0.75);
-  //   background-image: url("../assets/images/bw-bg.jpg");
-  background-image: url("./beer-1.jpg");
+
+  background-image: url("../assets/images/beer1.jpg");
   background-size: cover;
   background-position: center;
   border-radius: 15px;
   box-shadow: 0 0 1px 3px rgba(0, 0, 0, 0.05);
   text-align: center;
+  color: white;
 }
 
 .brewery {
@@ -49,7 +48,6 @@ body {
 }
 
 button {
-  color: white;
   background: rgb(192, 151, 97);
   padding: 1rem;
   border: none;
