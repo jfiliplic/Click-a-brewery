@@ -1,12 +1,4 @@
-// @charset 'UTF-8';
-
 @use "vendor/normalize";
-// @use "abstracts";
-// @use "base";
-// @use "components";
-// @use "layout";
-// @use "pages";
-// @use "themes";
 
 @import url("https://fonts.googleapis.com/css2?family=Merriweather:wght@400;900&family=Roboto:wght@400;700&family=Six+Caps&display=swap");
 
@@ -45,6 +37,30 @@ body {
 .brewery {
   font-size: 3rem;
   font-weight: 900;
+
+  h4 {
+    margin-block: 0.2rem;
+  }
+
+  a {
+    color: white;
+
+    &:hover,
+    &:active {
+      color: blue;
+    }
+  }
+
+  a.noLink {
+    text-transform: uppercase;
+    text-decoration: none;
+
+    &:hover,
+    &:active {
+      color: white;
+      cursor: default;
+    }
+  }
 }
 
 button {

@@ -33,16 +33,32 @@ async function fetchBrewery() {
 async function handleClick() {
   const randomBrewery = await fetchBrewery();
   const { name, city, country, website_url } = randomBrewery[0];
-  console.log(name, city, country);
-  breweryHolder.setAttribute("style", `white-space: pre-line;`);
-  breweryHolder.textContent = `${name}\r\n${city}\r\n${country}\r\n${
+  breweryHolder.innerHTML = `
+  <h4>${name}</h4>
+  <h4>${city}</h4>
+  <h4>${country}</h4>
+  <a href="${website_url} " target="_blank">${
     website_url || "no website available"
-  }`;
+  }</a>
+  `;
+  const breweryLink = document.querySelector(".brewery p a");
+
+  if (!website_url) {
+    breweryLink.classList.add("noLink");
+  }
+
+  breweryLink.addEventListener("click", (event) => {
+    if (!website_url) {
+      event.preventDefault();
+    }
+  });
+
   btn.textContent = randomItemFromArray(btnText, btn.textContent);
   cardStyle["background-image"] = randomItemFromArray(
     cardImages,
     `${cardStyle["background-image"]}`
   );
+
   //   cardStyle[
   //     "background-image"
   //   ] = `url("https://picsum.photos/900/600?grayscale&random=${Math.floor(
